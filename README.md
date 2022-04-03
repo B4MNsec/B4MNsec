@@ -1,3 +1,4 @@
+                                Tools + Tips + Intel for and from the BAMNsec Team
 -✨ BAMNsec stands for By Any Means Necessary security. BAMNsec was established in late 2019 and became active full time following the spike in cyber crime that came with our 2020 crisis. We are a team of independent researchers, makers, developers, pen testers, and info sec professionals of all sorts. We are always on the hunt for new talent and you should feel free to reach out if you'd like to get to know us. Remember just one thing... BAMNsec stands by quality over quantity in all of our endeavors.
 
 - 👋 Hi, I'll stick to the script.. i AM anton, the founder of BAMNsec / friends call me tone / all other endeavors:  4p0lly0n
